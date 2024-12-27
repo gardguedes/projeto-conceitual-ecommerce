@@ -42,7 +42,4 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 - Já para o pagamento, criei a entidade PAGAMENTO e PAGAMENTO POR CARTÃO, para especificar esse tipo de pagamento, pois possui várias informações e dessa forma é possível identificar o cartão por ID e nome. Sendo possível ter mais de um cartão cadastrado no pagamento.
 - Decide tornar a ENTREGA uma entidade, pois tem informações que são importantes e precisam ser armazenadas, como staus e código de rastreio. Além dessa entidade, crie EMPRESA DE ENTREGA, para ter as informações das empresas responsáveis pela entrega.
 
-
 ## Resolução do Desafio
-
-
