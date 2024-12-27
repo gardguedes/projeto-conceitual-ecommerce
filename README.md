@@ -43,3 +43,4 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 - Decide tornar a ENTREGA uma entidade, pois tem informações que são importantes e precisam ser armazenadas, como staus e código de rastreio. Além dessa entidade, crie EMPRESA DE ENTREGA, para ter as informações das empresas responsáveis pela entrega.
 
 ## Resolução do Desafio
+![Modelo REFINADO do banco de dados do e-commerce](https://github.com/user-attachments/assets/f77b7ccc-c3d1-4e17-8abc-648997da2254)
