@@ -5,6 +5,7 @@ Refinar a modelagem do cenário de e-commerce.
 
 ## Narrativa
 Objetivo: vender produtos
+
 Entidades: produto, estoque, cliente, pedido, fornecedor 
 
 ### Entidade: Produto
